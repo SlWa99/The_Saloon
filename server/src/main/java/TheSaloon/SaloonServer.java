@@ -1,4 +1,4 @@
-package chat.server;
+package TheSaloon;
 
 public class SaloonServer {
 }

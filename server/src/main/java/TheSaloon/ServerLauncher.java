@@ -1,4 +1,4 @@
-package chat.server;
+package TheSaloon;
 
 public class ServerLauncher {
     public static void main(String[] args) {
