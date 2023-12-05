@@ -1,6 +1,6 @@
-package org.WLC;
+package chat.client;
 
-public class Main {
+public class ClientLauncher {
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
