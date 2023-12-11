@@ -20,7 +20,7 @@
             <configuration>
               <transformers>
                 <transformer>
-                  <mainClass>The_saloon.client.Launcher</mainClass>
+                  <mainClass>saloon.client.ClientLauncher</mainClass>
                 </transformer>
               </transformers>
             </configuration>

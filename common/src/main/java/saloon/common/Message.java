@@ -1,4 +1,4 @@
-package chat.common;
+package saloon.common;
 
 public enum Message {
 }
