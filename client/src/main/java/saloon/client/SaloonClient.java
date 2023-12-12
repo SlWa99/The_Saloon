@@ -1,4 +1,4 @@
-package chat.client;
+package saloon.client;
 
 public class SaloonClient {
 }
